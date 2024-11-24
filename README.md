@@ -78,4 +78,5 @@ endmodule
 ![Screenshot 2024-10-07 112701](https://github.com/user-attachments/assets/5d8966df-e827-4575-99dd-2b5bbc30b4c1)
 
 **RESULTS**
+
 the implementation of sr flipflop using quartus || and verilog was executed succesfully.
